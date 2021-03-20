@@ -1,9 +1,10 @@
 ---
-title: Using with Nextcloud
+title: Using with Nextcloud/Owncloud
 group: Usage
 ---
 
-Photoview can be configured to grab media from [Nextcloud](https://nextcloud.com/).
+Photoview can be configured to grab media from [Nextcloud](https://nextcloud.com/) or [Owncloud](https://owncloud.com/get-started/).
+The below instructions refer to Nextcloud, but the steps for Owncloud are the exact same. 
 
 ## Locating Nextcloud files on the filesystem
 
